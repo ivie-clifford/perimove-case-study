@@ -1,6 +1,6 @@
 # Credits and sources
 
-This file records where PeriMove's media, references and tools came from. Items still to be confirmed are marked **UNRESOLVED**. It does not include account details or usage balances.
+This file records where PeriMove's media, references and tools came from. It does not include account details or usage balances.
 
 ## How the prototype was made
 - **Product, research, decisions, exercise content and recommendation rules:** Ivie Clifford (solo builder).
@@ -8,7 +8,7 @@ This file records where PeriMove's media, references and tools came from. Items 
 - **Assistants:** Claude and ChatGPT were used to support drafting, review and documentation. Product decisions and the evidence wording were the builder's.
 - **Logo:** designed by the builder.
 - **Welcome-screen image:** sourced through Lovable. Lovable permitted its use in the prototype and this portfolio case study.
-- **Fonts:** DM Sans and Fraunces, loaded from Google Fonts, are distributed under the [SIL Open Font License 1.1](https://github.com/google/fonts/blob/main/ofl/dmsans/OFL.txt) and [SIL Open Font License 1.1](https://github.com/google/fonts/blob/main/ofl/fraunces/OFL.txt), respectively.
+- **Fonts:** DM Sans and Fraunces, loaded from Google Fonts, are distributed under the SIL Open Font License 1.1: [DM Sans](https://github.com/google/fonts/blob/main/ofl/dmsans/OFL.txt) and [Fraunces](https://github.com/google/fonts/blob/main/ofl/fraunces/OFL.txt).
 
 ## Demonstration video clips
 Stock clips are from Pexels, used under the Pexels license (free to use and modify, including in apps and websites; attribution is not required but is given here). The Pexels license does not allow implying that the people shown endorse the product; the clips are used only to illustrate a movement. Individual licence checks for each clip were reported by Lovable; a spot check of each clip's page is still recommended before wider publication.
