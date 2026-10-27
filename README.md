@@ -4,7 +4,7 @@ A home-workout prototype for women approaching or experiencing perimenopause, bu
 
 **[Explore the current prototype](https://perimove.lovable.app)** · **[Contact Ivie on LinkedIn](https://www.linkedin.com/in/ivie-clifford)**
 
-> Exercise content is draft, not professionally reviewed or clinically validated. This repository documents the hackathon version; the live app may evolve. It does not establish health outcomes, adherence or sustained use.
+> Exercise content is prototype content, not professionally reviewed or clinically validated. This repository documents the hackathon version; the live app may evolve. It does not establish health outcomes, adherence or sustained use.
 
 ## Start here
 

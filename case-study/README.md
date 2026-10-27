@@ -6,7 +6,7 @@ PeriMove helps women approaching or experiencing perimenopause adapt a home work
 
 I owned the problem framing, research, product decisions, design direction, content, testing and release decisions. I used Lovable to build the app from my specifications, with ChatGPT and Claude supporting research synthesis, planning, review and documentation.
 
-[Explore the current prototype](https://perimove.lovable.app) · Exercise content is draft, not professionally reviewed or clinically validated.
+[Explore the current prototype](https://perimove.lovable.app) · Exercise content is prototype content, not professionally reviewed or clinically validated.
 
 ## The problem
 
@@ -114,7 +114,7 @@ I limited exercises to movements with credible technique references. Where I cou
 
 The cost was a deliberately small library: for example, the standing strength session has no pulling movement and is not described as full-body. Some exercises have fewer difficulty versions than others.
 
-Technique references do not validate an assembled workout. The sessions, cues, dose and modifications remained draft content, labeled as not professionally reviewed or clinically validated.
+Technique references do not validate an assembled workout. The sessions, cues, dose and modifications remained prototype content, labeled as not professionally reviewed or clinically validated.
 
 ### 4. Let observed use reshape the journey
 

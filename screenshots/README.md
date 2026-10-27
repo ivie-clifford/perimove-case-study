@@ -1,6 +1,6 @@
 # Screenshot evidence
 
-Original captures of the hackathon prototype and an earlier iteration. Interface evidence, not proof of working audio/video or user outcomes. Exercise content is draft and unreviewed.
+Original captures of the hackathon prototype and an earlier iteration. Interface evidence, not proof of working audio/video or user outcomes. Exercise content is prototype content and unreviewed.
 
 | File | Caption |
 |---|---|

@@ -1,6 +1,6 @@
 # Exercise library: overview
 
-**Status.** The prototype's exercise content is **draft prototype content that no professional has reviewed.** It has not been clinically validated and is not an approved workout program. For this first package the library is described, not reproduced: this file lists its structure, scope and limits, and deliberately leaves out the exercise text (cues, instructions, doses and session scripts).
+**Status.** The prototype's exercise content is **prototype content that no professional has reviewed.** It has not been clinically validated and is not an approved workout program. For this first package the library is described, not reproduced: this file lists its structure, scope and limits, and deliberately leaves out the exercise text (cues, instructions, doses and session scripts).
 
 ## What the library is
 A small, curated set of home sessions that the rules function selects from. Nothing is generated at runtime and no AI is involved. Every session and every version of an exercise was written for PeriMove by the builder; references were used for technique only.
@@ -22,7 +22,7 @@ Each slot in a strength session can offer an easier, base and harder version, an
 Movements were included only where a credible technique reference could be found. Where none was found, nothing was added, so the library is small. There is no no-equipment pulling movement, no easier hinge beyond the bodyweight hip hinge, and no non-jumping harder bodyweight squat. Some topics were examined and excluded because the evidence was mixed or not found (for example exercise timing and sleep, and multi-week deload planning).
 
 ## What "sourced" means here
-A source is a technique reference only (health-service, medical-center and fitness-education pages, paraphrased). It is not clinical validation. Cues, dose, session assembly and modifications were written for PeriMove, and some references match only partly. The two-sets-of-eight-to-twelve dose is a draft basis, not a prescription. Demonstration clips show a movement; they do not validate technique or suitability.
+A source is a technique reference only (health-service, medical-center and fitness-education pages, paraphrased). It is not clinical validation. Cues, dose, session assembly and modifications were written for PeriMove, and some references match only partly. The two-sets-of-eight-to-twelve dose is an initial prototype basis, not a prescription. Demonstration clips show a movement; they do not validate technique or suitability.
 
 ## Two copies of the library, and the source count
 There are two versions of the library, and they are not the same size:

@@ -14,10 +14,10 @@
 ## 2. Session library (v0.4)
 | ID | Session | Duration | Needs | Status in the submitted build |
 |---|---|---|---|---|
-| S20 | Strength, 4 movements | 20 min | Dumbbells; floor space; stable chair or table | Built; draft content (unreviewed). The app's clip list includes a supported-row clip |
-| S30 | Strength, 5 movements (adds dead bug) | 30 min | Same as S20 | Built; draft content (unreviewed). Dead bug has one version; the clip list includes a dead bug clip |
+| S20 | Strength, 4 movements | 20 min | Dumbbells; floor space; stable chair or table | Built; prototype content (unreviewed). The app's clip list includes a supported-row clip |
+| S30 | Strength, 5 movements (adds dead bug) | 30 min | Same as S20 | Built; prototype content (unreviewed). Dead bug has one version; the clip list includes a dead bug clip |
 | B15 | Standing strength, 3 movements (squat, hinge, press) | 15 min | Standing space (floor space counts); no equipment, no floor; a free wall is assumed. The mini-squat and sit-to-stand need a stable chair; the incline push-up needs a table or counter | Built; draft content (unreviewed); written cues. Which of its movements show a clip or the "Video coming soon" placeholder was not checked in this pass (see section 10) |
-| G10 | Gentle mobility and relaxation | 10 min | Stable chair (no wheels or arms); two optional standing exercises | Built; draft content (unreviewed). The clip list includes a standing side bend clip |
+| G10 | Gentle mobility and relaxation | 10 min | Stable chair (no wheels or arms); two optional standing exercises | Built; prototype content (unreviewed). The clip list includes a standing side bend clip |
 
 ## 3. Step 1: eligibility filters (applied in order)
 | Check | Rule | If it fails |

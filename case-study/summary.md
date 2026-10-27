@@ -24,7 +24,7 @@ Explore the current prototype: https://perimove.lovable.app
 </tr>
 </table>
 
-*Illustrative screens from the daily journey, not a recording of one continuous session. Exercise content is draft and not professionally reviewed.*
+*Illustrative screens from the daily journey, not a recording of one continuous session. Exercise content is prototype content and not professionally reviewed.*
 
 **The problem.** Exercise plans can be hard to adapt when every day feels different. For many women in perimenopause, energy, recovery and symptoms can vary, and general advice is hard to turn into a decision on the day: follow the workout, make it easier, choose gentler movement or rest?
 

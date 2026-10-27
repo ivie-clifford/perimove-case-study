@@ -43,7 +43,7 @@ Links are the pages recorded in the exercise library, with the date the builder 
 | Mayo Clinic | [Modified (wall) push-up](https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/modified-pushup/vid-20084674) | Wall push-up alternative (reference only; the page leads with the knee push-up) | 2026-10-12 |
 | Cleveland Clinic | [How To Do a Push-up (Plus Ways To Mix It Up)](https://health.clevelandclinic.org/how-to-do-a-push-up) | Incline push-up technique (page outcome claims not used) | 2026-10-15 |
 | Mayo Clinic | [Take 5 to work your hips and back](https://www.mayoclinic.org/connected-care/take-5-to-work-your-hips-and-back/vid-20307381) | Bodyweight hip hinge (stance and repetitions differ from PeriMove cue) | 2026-10-15 |
-| NHS | [How to improve your strength and flexibility](https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/) | Basis for the draft dose of 2 sets of 8 to 12 repetitions | 2026-10-15 |
+| NHS | [How to improve your strength and flexibility](https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/) | Basis for the initial prototype dose of 2 sets of 8 to 12 repetitions | 2026-10-15 |
 | NASM exercise library | [Goblet squat](https://www.nasm.org/resource-center/exercise-library/goblet-squat) | Squat base technique | 2026-10-12 |
 | NASM exercise library | [Dumbbell Romanian deadlift](https://www.nasm.org/resource-center/exercise-library/dumbbell-romanian-deadlift) | Hinge base technique | 2026-10-12 |
 | NHS | [Things you can do to help menopause and perimenopause symptoms](https://www.nhs.uk/conditions/menopause-and-perimenopause/things-you-can-do/) | General-information tips (bones, rest) | 2026-10-12 |
