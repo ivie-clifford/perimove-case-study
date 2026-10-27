@@ -78,14 +78,14 @@ perimenopause and
 exercise
 18
 Strength and muscle
+
+NEEDS ADDRESSED BY THE ADAPTATION FLOW
 15
 Deciding between
 workout, gentle
 movement or rest
 11
 Modifying exercises
-
-NEEDS ADDRESSED BY THE ADAPTATION FLOW
 The largest request was education. I chose a narrower first step.
 Within three days, I focused on daily workout adaptation—a bounded experience I could build and test. Broader
 perimenopause education needed more expert sourcing and review. I included a small set of source-linked general tips and
